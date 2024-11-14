@@ -101,7 +101,6 @@ gnn-node-classification/
 ├── 01.Dataset-And-Code/
 │   ├── data/                             # Folder for storing the dataset
 │   ├── main.py                           # Main script for training and evaluation
-│   ├── models/                           # Folder containing model definitions
 ├── 02.Reports-And-Presentation/
 │   ├── report.pdf                        # Detailed project report
 │   ├── presentation.pdf                  # Project presentation slides
