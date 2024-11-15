@@ -73,7 +73,7 @@ The dataset can be sourced from libraries like **PyTorch Geometric** or **Tensor
 - **Node Embeddings**: Use **t-SNE** or **PCA** to visualize how the GNN model clusters papers by subject.
 - **Training Curves**: Plot accuracy and loss over epochs.
 
-### 7. Extensions (Optional)
+### 7. Extensions (into extensions folder in 01 directory)
 
 - Experiment with other GNN architectures (e.g., **Graph Attention Networks** - GAT).
 - Explore hyperparameters (e.g., number of layers, hidden layer sizes, learning rates).

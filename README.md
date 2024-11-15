@@ -84,9 +84,7 @@ The GNN models follow a multi-layer structure:
 
 The trained GNN model provides metrics like accuracy, precision, recall, and F1-score for node classification on the Cora dataset. Additionally, visualizations of node embeddings (e.g., using t-SNE or PCA) and training loss are included to assess model performance.
 
-## Extensions
-
-For further exploration, you can:
+## Extensions (into extensions folder in 01 directory)
 
 - Experiment with different GNN architectures, such as Graph Attention Networks (GAT).
 - Tune hyperparameters like learning rate, number of layers, and hidden layer size.
