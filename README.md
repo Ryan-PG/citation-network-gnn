@@ -15,8 +15,6 @@ This project applies Graph Neural Networks (GNNs) to classify academic papers wi
 - [Contributing](#contributing)
 - [License](#license)
 
----
-
 ## Project Overview
 
 This project demonstrates the use of GNNs for node classification tasks, specifically focusing on predicting the subject area of academic papers in a citation network. Citation networks are modeled as graphs where nodes represent papers and edges represent citation relationships.
